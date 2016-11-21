@@ -1,4 +1,4 @@
-// 기존의 OOP로 작성한 Entity System
+// Component based Entity System in OOP
 
 #include <vector>
 
